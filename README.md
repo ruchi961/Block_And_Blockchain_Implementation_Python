@@ -1,5 +1,5 @@
 # @ Block_And_Blockchain_Implementation_Python
-Contains the implementation of a single block and whole blockchain in Python.
+Contains the implementation of a **single block and whole blockchain in Python**.
 
 ## > Information
 
