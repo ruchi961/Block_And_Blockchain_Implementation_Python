@@ -1,21 +1,15 @@
-# @ Block_And_Blockchain_Implementation_Python
+# :green_circle: Block_And_Blockchain_Implementation_Python
 Contains the implementation of a **single block and whole blockchain in Python**.
 
 ## > Information
 
-<b>Language:</b>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50>
+* <b>Language:</b> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50>
 
 
-<b>Created (date) :</b> Jan 2023
+* <b>Date Created :</b> January 2023
 
 
-<b>Created in :</b> F.Y. M.Sc (SEM II)
-
-
-<b>Created for :</b> Practical scratch implementation
-
-
-## > Output : 
+## > Output 
 
 
 ### 1. Single Block
